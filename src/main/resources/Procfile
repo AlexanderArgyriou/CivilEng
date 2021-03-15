@@ -1,1 +1,2 @@
-web: java -war target/application-1.0-SNAPSHOT.war
+buildpacks:clear
+war:deploy target/application-1.0-SNAPSHOT.war
