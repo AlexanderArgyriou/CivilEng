@@ -1,0 +1,1 @@
+web: java -war target/application-1.0-SNAPSHOT.war
