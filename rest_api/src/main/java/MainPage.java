@@ -5,6 +5,6 @@ import javax.ws.rs.Path;
 public class MainPage {
     @GET
     public String mainPage() {
-        return "index.jsp";
+        return "index4.jsp";
     }
 }
